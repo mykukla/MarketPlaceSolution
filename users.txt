@@ -1,0 +1,37 @@
+export default [
+    {
+      gender: "female",
+      name: {
+        title: "ms"
+        first: "raya",
+        last:"mannel"
+      },
+      location: {
+        street: "7 Stone Drive"
+        city:"harrison"
+        state: "new york"
+        postcode: 10604
+      },
+      email: "rm45639p@pace.edu"
+      login: {
+        username: "computerproject",
+        password: "seidenberg",
+        salt: "c7QvzaON",
+        md5:  "ognwsiovhw",
+        shal: "riuhtguigheuisgribt4",
+        sha256: "yfvvkgvgkjcvgkuvgcvkgkcvkvckgcvkgcv"
+      },
+       id: {
+         name:"",
+         value: null
+       }
+      
+
+      }
+      }
+      }
+    }
+  ]
+
+  )
+}
