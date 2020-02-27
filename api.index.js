@@ -24,5 +24,3 @@ export const getUsers=(limit = 20,query="")=>{
   });
  };
 export default getUsers;
-
-
