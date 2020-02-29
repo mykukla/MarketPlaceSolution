@@ -1,3 +1,5 @@
-NOW WE HAVE LOCAL SEARCH FOR INSTANT RESULTS AND REMOTE SEARCH HITTING AN API called getUsers TO GET THAT INFO BACK.  
+Now we have a local search for intant results and remote search hitting an API called getUser. 
 
-SETTING UP SEARCH, WE HAVE DATA WE R UPDATING W SEARCH RESULTS / WE R STORING OUR QUERY WHICH WE THEN PASS TO OUR API.
+Setting up search, we have data we are updating with search results.
+
+We are storing our query which we then pass to our API.
