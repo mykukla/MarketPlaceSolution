@@ -65,20 +65,6 @@ renderSeparator = ( => {
     />
   )
 })
-  })
-
-      })
-    )
-
-  }
-  }
-    }
-  }
-}
-}
-);
-};
-
 
 render() {
   return(
